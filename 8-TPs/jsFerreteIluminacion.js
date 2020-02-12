@@ -10,5 +10,25 @@ E.	Si el importe final con descuento suma más de $120  se debe sumar un 10% de 
  */
 function CalcularPrecio () 
 {
- 	
+ 	var FormIngreso;
+ 	var Marca;
+ 	var precioDescuento;
+
+ 	FormIngreso= document.getElementById('FormIngreso').value;
+ 	Marca= document.getElementById('Marca').value;
+
+ 	FormIngreso=(FormIngreso*35);
+
+ 	//if()
+ 	{
+
+ 	}
+
+
+
+
+ 	console("CalcularPrecio");
+
+
+
 }
